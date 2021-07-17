@@ -4,7 +4,8 @@
 
 let arr = [1,2,3,4] ;
 function myArray(){
-   console.log(newArr=arr.slice())
+  return newArr=arr.slice()
 }
-myArray();
+console.log(myArray());
+
 
